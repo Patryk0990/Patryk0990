@@ -11,7 +11,7 @@
 
 ### Summary
 
-Results-oriented Python Backend Developer with over 3 years of commercial experience, specializing in architecting **secure and scalable RESTful APIs**. I possess deep expertise in the full Python ecosystem (**Django, FastAPI, Flask**) and focus on delivering clean, maintainable code compliant with industry standards. I am a proactive problem solver who utilizes **AI-assisted workflows** to enhance development efficiency and ensure high-quality delivery in distributed environments.
+Results-oriented Python Developer with over 3 years of commercial experience, specializing in architecting **secure and scalable RESTful APIs**. I possess deep expertise in the full Python ecosystem (**Django, FastAPI, Flask**) and focus on delivering clean, maintainable code compliant with industry standards. I am a proactive problem solver who utilizes **AI-assisted workflows** to enhance development efficiency and ensure high-quality delivery in distributed environments.
 
 ---
 
