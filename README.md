@@ -28,7 +28,7 @@ Results-oriented Python Backend Developer with over 3 years of commercial experi
 
 ### Professional Experience
 
-### **Python Developer (Freelance/Self-Employed)** | (_[Oct 2025] - Present_)
+### **Python Developer (Freelance/Self-Employed)** | (_Oct 2025 - Present_)
 
 Delivering professional backend development services aimed at building secure, high-performance distributed systems.
 
@@ -44,7 +44,7 @@ Delivering professional backend development services aimed at building secure, h
 
 ---
 
-### **Python Developer** | **[Sirocco]** | (_[Nov 2022] - [Sep 2025]_)
+### **Python Developer** | **Sirocco** | (_Nov 2022 - Sep 2025_)
 
 Responsible for backend development, maintenance of core features, and contributing to system architecture in a microservices environment.
 
@@ -69,10 +69,10 @@ Responsible for backend development, maintenance of core features, and contribut
 ### Education
 
 **Master of Science in Computer Science**
-*Silesian University of Technology* | (_[2024] - [2025]_)
+*Silesian University of Technology* | (_2024 - 2025_)
 
 **Bachelor of Engineering in Computer Science**
-*Silesian University of Technology* | (_[2020] - [2024]_)
+*Silesian University of Technology* | (_2020 - 2024_)
 
 ---
 
