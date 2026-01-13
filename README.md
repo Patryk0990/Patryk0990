@@ -11,17 +11,20 @@
 
 ### Summary
 
-Results-oriented Python Developer with over 3 years of commercial experience, specializing in architecting **secure and scalable RESTful APIs**. I possess deep expertise in the full Python ecosystem (**Django, FastAPI, Flask**) and focus on delivering clean, maintainable code compliant with industry standards. I am a proactive problem solver who utilizes **AI-assisted workflows** to enhance development efficiency and ensure high-quality delivery in distributed environments.
+Results-driven **Python Developer** with **4 years of commercial experience**, specializing in architecting **secure, high-performance RESTful APIs** and distributed systems. I possess deep expertise in the full Python ecosystem (**Django, FastAPI, Flask**) and focus on delivering clean, maintainable code compliant with industry standards (**SOLID, Clean Code**).
+
+I combine technical knowledge with a proactive mindset, utilizing **AI-assisted workflows** to enhance development efficiency and ensure high-quality delivery in complex microservice architectures.
 
 ---
 
 ### Core Competencies & Technical Skills
 
-- **Languages:** Python, SQL, JavaScript (Basic)
+- **Languages:** Python, SQL, JavaScript
 - **Frameworks:** Django, FastAPI, Flask, Django REST Framework
-- **Databases:** PostgreSQL, MySQL, Redis, Database Design
-- **Infrastructure & DevOps:** Docker, Kubernetes (Basics), Linux, Git
-- **Architecture:** REST API, Microservices, API Security (OWASP), Asynchronous Programming
+- **Databases:** PostgreSQL, MySQL, Redis, Database Design & Optimization
+- **Async & Messaging:** Celery, RabbitMQ, Asynchronous Programming
+- **Infrastructure & DevOps:** Docker, Kubernetes, Linux, Git
+- **Architecture:** REST API, Microservices, System Design, API Security (OWASP)
 - **Workflow:** AI-Assisted Development, Agile, Code Review, TDD
 
 ---
@@ -40,7 +43,7 @@ Delivering professional backend development services aimed at building secure, h
 - **Database Management:** Designing efficient database schemas and optimizing queries for performance and data integrity.
 - **Technical Advisory:** Participating in architectural decisions to support long-term project scalability.
 
-**Tech Stack:** Python, Django, FastAPI, Flask, Docker, Kubernetes, SQL, Git, AI Tools
+**Tech Stack:** Python, Django, FastAPI, Flask, Docker, Kubernetes, SQL, Celery, RabbitMQ, AI Tools
 
 ---
 
@@ -62,7 +65,7 @@ Responsible for backend development, maintenance of core features, and contribut
 - Architected and implemented a high-performance ETL system for the banking sector.
 - Utilized a choreography-based **SAGA pattern** to ensure data consistency across distributed services.
 - Engineered scalable microservices that significantly improved data processing efficiency and throughput.
-- **Tech Stack:** Python, Django, DRF, PostgreSQL, Celery, RabbitMQ, Docker
+- **Tech Stack:** Python, Django, Django REST Framework, PostgreSQL, Celery, RabbitMQ, Docker
 
 ---
 
@@ -79,12 +82,12 @@ Responsible for backend development, maintenance of core features, and contribut
 ### Languages
 
 - **Polish:** Native
-- **English:** B2/C1
+- **English:** Professional Proficiency (B2/C1)
 
 ---
 
 ### Interests
 
-- Automotive Industry
+- Automotive
 - Coffee Enthusiast
 - Backend Architecture Trends & AI
