@@ -82,7 +82,7 @@ Responsible for backend development, maintenance of core features, and contribut
 ### Languages
 
 - **Polish:** Native
-- **English:** Professional Proficiency (B2/C1)
+- **English:** Full Professional Proficiency (B2/C1)
 
 ---
 
