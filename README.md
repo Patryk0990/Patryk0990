@@ -1,6 +1,6 @@
 # Patryk Beberok
 
-## Python Developer
+## Python Backend Developer
 
 - **Email:** <patryk.beberok09@gmail.com>
 - **Phone:** +48 530 792 920
@@ -11,7 +11,7 @@
 
 ### Summary
 
-Results-driven **Python Developer** with **4 years of commercial experience**, specializing in architecting **secure, high-performance RESTful APIs** and distributed systems. I possess deep expertise in the full Python ecosystem (**Django, FastAPI, Flask**) and focus on delivering clean, maintainable code compliant with industry standards (**SOLID, Clean Code**).
+Results-driven **Python Backend Developer** with **4 years of commercial experience**, specializing in architecting **secure, high-performance RESTful APIs** and distributed systems. I possess deep expertise in the full Python ecosystem (**Django, FastAPI, Flask**) and focus on delivering clean, maintainable code compliant with industry standards (**SOLID, Clean Code**).
 
 I combine technical knowledge with a proactive mindset, utilizing **AI-assisted workflows** to enhance development efficiency and ensure high-quality delivery in complex microservice architectures.
 
