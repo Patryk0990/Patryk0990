@@ -90,4 +90,5 @@ Responsible for backend development, maintenance of core features, and contribut
 
 - Automotive
 - Coffee Enthusiast
+- Fan of Home Cooking
 - Backend Architecture Trends & AI
